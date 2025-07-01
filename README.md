@@ -41,7 +41,7 @@ Criei uma tabela com mais de 60 corridas, com o objetivo de tirar algum conhecim
 - **Total de corridas**: 69
 - **Período**: de 30/09/2024 a 19/06/2025
 - **Campos**: distância, calorias, data, dia da semana, umidade, ritmo médio (min/km), duração (min), velocidade média (km/h)
-- **Fonte dos dados**: App Adidas Running (coleta manual + automação)
+- **Fonte dos dados**: App Adidas Running coleta manual
 
 ---
 
